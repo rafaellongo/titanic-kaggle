@@ -1,5 +1,5 @@
 #setting up wd
-setwd("C:/Users/Rafiki/Documents/Kaggle/Titanic")
+setwd("C:/Users/Rafiki/Documents/Github/titanic-kaggle")
 
 #loading datasets
 trainData <- read.csv("train.csv", header= TRUE, stringsAsFactors = FALSE)
